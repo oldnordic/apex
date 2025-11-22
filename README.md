@@ -1,5 +1,25 @@
 # APEX Spec — Agent Planning & Execution DSL
 
+<p align="center">
+
+  <a href="https://crates.io/crates/apex_spec">
+    <img src="https://img.shields.io/crates/v/apex_spec.svg" alt="crates.io version">
+  </a>
+
+  <a href="https://docs.rs/apex_spec">
+    <img src="https://docs.rs/apex_spec/badge.svg" alt="docs.rs docs">
+  </a>
+
+  <a href="https://github.com/oldnordic/apex/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="GPL-3.0 License">
+  </a>
+
+  <a href="https://github.com/oldnordic/apex/actions">
+    <img src="https://github.com/oldnordic/apex/workflows/tests/badge.svg" alt="Test Status">
+  </a>
+
+</p>
+
 APEX (Agent Planning & Execution Specification) is a deterministic,
 human-readable DSL for controlling LLM reasoning, tool orchestration,
 validation steps, and reproducible execution workflows.
